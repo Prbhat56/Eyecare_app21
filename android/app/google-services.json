@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041637534448",
+    "project_id": "eyecareapp-f51a4",
+    "storage_bucket": "eyecareapp-f51a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041637534448:android:42770e0345304033663035",
+        "android_client_info": {
+          "package_name": "com.example.healthcare_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041637534448-c9rk4vou5mua095nhfphs9r8r2a3k56n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvqmGiOz2JfgkDFwbH8z1ZBLSEtm1TaKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041637534448-c9rk4vou5mua095nhfphs9r8r2a3k56n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
